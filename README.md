@@ -4,7 +4,7 @@
 
 ### 1. Základní koncepce
 
-- Pujde o klasický PinBall 3D, s pohledem shora. Hra je tvořena v GE Unity.
+- Pujde o klasický PinBall 2D, s pohledem shora. Hra je tvořena v GE Unity.
 
 ### 2. Level design
 
