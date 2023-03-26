@@ -23,10 +23,9 @@
 
 - Neni ještě jisté zda bude mít hra nějaké barevné podbarvení.
 
-
 ### 6. Unity
 
-- Unity je výkonný engine ve kterém se dá dělat téměř cokoliv, proto PinBall nebude nijak náročný. 
+- Momentálně pracuji na pohybu flipperů a dopsání scriptu. 
 
 ### 7. Propagace (video, bannery…)
 
