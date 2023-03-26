@@ -30,7 +30,7 @@
 
 ### 7. Propagace (video, bannery…)
 
-- ![Banner](Imgs/Banner.png)
+![Banner](Imgs/Banner.png)
 
 ### 8. Finální hra
 
